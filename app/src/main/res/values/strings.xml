@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pokémon Viewer</string>
+    <string name="show">Show</string>
+    <string name="pokemon_name_or_id">Pokémon name or ID</string>
+    <string name="pokemon_image">Pokémon image</string>
+    <string name="error_message">Error getting Pokémon</string>
+</resources>
